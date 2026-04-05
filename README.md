@@ -26,18 +26,18 @@ I specialize in designing and implementing robust digital infrastructures. My ap
 
 ### 📑 Featured Engineering Projects
 
-#### 📂 [Torrent Games](https://github.com/aliabbasov99)
+#### 📂 [Torrent Games](https://torrentoyunyukle.vercel.app/)
 * **Full-stack System:** Engineered a functional web application with a focus on dynamic data processing and structured content management.
 * **API Infrastructure:** Built a seamless connection with external services to support high-volume data exchange.
 * **Automation:** Developed admin systems that reduce manual operations through automated media management.
 
-#### 📂 Cyrillic-to-Latin Converter
+#### 📂 [Cyrillic-to-Latin Converter](https://github.com/aliabbasov99/cyrillic-to-latin-converter/releases/tag/v1.0.0)
 * **Performance Tool:** Designed a desktop solution capable of handling hundreds of pages without the character limits found in standard web tools.
 * **Formatting Logic:** Implemented logic to preserve original font styles and document structures during massive batch conversions.
 
-#### 📂 [Medical Center](https://github.com/aliabbasov99)
-* **Frontend Engineering:** Built a responsive UI using **Tailwind CSS**, **Bootstrap**, and **JavaScript**, prioritizing mobile-first principles.
-* **Reliability:** Managed version control and continuous deployment through **GitHub and Vercel** to maintain stable production environments.
+#### 📂 [Medical Center](https://health-center-three.vercel.app/)
+* **Frontend Engineering:** Responsive web interface built using **Pure CSS**.
+* **Reliability:** Focused on mobile-first design and semantic HTML structure without external UI libraries.
 
 ---
 
