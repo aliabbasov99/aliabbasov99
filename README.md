@@ -26,7 +26,7 @@ I specialize in designing and implementing robust digital infrastructures. My ap
 
 ### 📑 Featured Engineering Projects
 
-#### 📂 [Torrent Games](https://torrentoyunyukle.vercel.app/)
+#### 📂 [Torrent Games](https://github.com/aliabbasov99/torrentoyunyukle)
 * **Full-stack System:** Engineered a functional web application with a focus on dynamic data processing and structured content management.
 * **API Infrastructure:** Built a seamless connection with external services to support high-volume data exchange.
 * **Automation:** Developed admin systems that reduce manual operations through automated media management.
