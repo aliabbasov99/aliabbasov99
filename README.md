@@ -1,42 +1,56 @@
-# Hi there, I'm Ali! 👋
+# Ali Abbasov | Full-stack Developer & Information Security Student
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,fastapi,py,js,vercel,figma,postman" />
-</p>
-
----
-
-### 💻 About Me
-Mən **Fullstack Developer** və **İnformasiya Təhlükəsizliyi** tələbəsiyim. Kod yazmağa sadəcə "iş" kimi yox, real həyatdakı limitləri və bezdirici problemləri həll etmək üçün bir alət kimi baxıram.
-
-* 🚀 **Nə edirəm:** MERN stack və FastAPI ilə veb proqramlar, avtomatlaşdırma alətləri hazırlayıram.
-* 🛠️ **Problem Solver:** Əgər mövcud bir proqramın limiti məni qane etmirsə, oturub limitləri olmayan öz versiyamı yazıram (Bax: [Cyrillic-to-Latin Converter](https://github.com/aliabbasov99/cyrillic-to-latin-converter)).
-* 🛡️ **Security:** AzTU-da İnformasiya Təhlükəsizliyi oxuyuram, kodun həm işlək, həm də təhlükəsiz olması əsas prinsipimdir.
-
----
-
-### 🎨 Beyond Coding
-Kodlardan kənarda tam fərqli bir dünyam var:
-* 🎸 **Music:** Rock və Metal musiqi tarixi. Black Sabbath və Nirvana riffləri arasında itmək.
-* 🎬 **Content:** YouTube və TikTok üçün anime və musiqi mövzulu videolar hazırlayıram.
-* 🎮 **Gaming:** Fortnite-da "tire guy" taktikaları ilə əylənmək.
-* 📈 **Trading:** Kripto və səhm qrafiklərindəki o kiçik hərəkətləri tutmaq.
-
----
-
-### 📊 My Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliabbasov99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbasov99&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://img.shields.io/badge/Education-Information%20Security%20@%20AzTU-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scholarship-Fullstack%20Development%20@%20Div%20Academy-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-green?style=flat-square" />
 </p>
+
+### 🛠 Professional Profile
+[cite_start]I am a results-driven developer focused on building high-performance, dynamic web applications[cite: 24]. [cite_start]Currently pursuing a degree in **Information Security** at Azerbaijan Technical University  [cite_start]and specializing in **Full-stack Development** at Div Academy through a scholarship program[cite: 29].
+
+* [cite_start]**Problem Solver:** Experienced in technical debugging and optimizing complex codebases[cite: 25, 32].
+* [cite_start]**Team-Oriented:** Skilled in collaborative project planning, structured execution, and time management[cite: 31].
+* [cite_start]**Architecture-Focused:** Dedicated to building scalable backend architectures and clean, maintainable UI structures[cite: 35, 37].
+
+---
+
+### 🚀 Technical Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,bootstrap,py,fastapi,git,vercel,postman" />
+  </a>
+</p>
+
+---
+
+### 📑 Featured Projects
+
+#### 📂 [Torrent Games](https://github.com/aliabbasov99)
+* [cite_start]**Architecture:** Developed a full-stack application using **Node.js, MongoDB, and JavaScript**[cite: 35].
+* [cite_start]**Integration:** Built a scalable backend with dynamic data processing and seamless third-party service integration[cite: 35].
+* [cite_start]**Automation:** Implemented automated data integration and media management features via external APIs to minimize manual operations[cite: 36].
+
+#### 📂 [Cyrillic-to-Latin Converter](https://github.com/aliabbasov99/cyrillic-to-latin-converter)
+* **Utility:** Created a high-performance desktop tool designed to bypass character limits in large-scale document conversions.
+* **Integrity:** Focuses on maintaining original document formatting and font styles across hundreds of pages.
+
+#### 📂 [Medical Center](https://github.com/aliabbasov99)
+* [cite_start]**Frontend:** Engineered a modern, responsive interface using **HTML, CSS, and Bootstrap** following mobile-first principles[cite: 39].
+* [cite_start]**Optimization:** Ensured cross-browser compatibility and visual consistency across all device environments (Desktop, Tablet, Mobile)[cite: 37, 40].
+
+---
+
+### 📊 Performance & Deployment
+* [cite_start]**CI/CD:** Proficient in managing deployment and version control through **GitHub and Vercel**[cite: 41].
+* [cite_start]**Standards:** Committed to semantic coding practices and reliable production environments[cite: 39, 41].
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/aliabbasov99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliabbasov99" height="30" width="40" /></a>
-<a href="https://youtube.com/@pakoganime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pakoganime" height="30" width="40" /></a>
+  <a href="mailto:aliabbasov9282@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="25" /></a>
+  <a href="https://linkedin.com/in/aliabbasov99" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" /></a>
 </p>
 
----
-*"If a tool has limits, it's time to build a new one."*
+*"If a tool has limits, I'll build a solution to break them."*
