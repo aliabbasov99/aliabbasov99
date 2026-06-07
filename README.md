@@ -5,13 +5,6 @@
   <img src="https://img.shields.io/badge/Scholarship-Fullstack%20Development%20@%20Div%20Academy-blue?style=flat-square" />
 </p>
 
----
-
-### 🤝 Open Source Contributions
-
-| Project | Contribution |
-|--------|-------------|
-| [PixelPlayer](https://github.com/theovilardo/PixelPlayer/pull/2262) | 🌐 Implemented Turkish localization (l10n) and internationalization (i18n) support. |
 
 
 ### 💻 System Architecture & Development
@@ -21,6 +14,14 @@ I specialize in designing and implementing robust digital infrastructures. My ap
 * **System Integration:** Experienced in implementing automated data integration and managing complex media flows via external APIs.
 * **Security-First Development:** Leveraging my academic background in **Information Security** to ensure data integrity and system resilience.
 * **Optimization:** Focused on technical problem solving, debugging, and cross-platform performance tuning.
+
+---
+
+### 🤝 Open Source Contributions
+
+| Project | Contribution |
+|--------|-------------|
+| [PixelPlayer](https://github.com/theovilardo/PixelPlayer/pull/2262) | 🌐 Implemented Turkish localization (l10n) and internationalization (i18n) support. |
 
 ---
 
