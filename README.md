@@ -3,7 +3,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Education-Information%20Security%20@%20AzTU-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Scholarship-Fullstack%20Development%20@%20Div%20Academy-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_Source-19_Contributed_Repos-brightgreen?style=flat-square&logo=github" />
+  <a href="https://github.com/aliabbasov99"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aliabbasov99&repo=aliabbasov99&show_owner=true" alt="Aslında Kart Yerine Aşağıdaki Yapıyı Kullanacağız" style="display:none;"/></a>
+  
   <br><br>
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabbasov99&show_icons=true&theme=radial)](https://github.com/aliabbasov99)
 </p>
