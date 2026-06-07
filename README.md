@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Education-Information%20Security%20@%20AzTU-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Scholarship-Fullstack%20Development%20@%20Div%20Academy-blue?style=flat-square" />
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radial)](https://github.com/KULLANICI_ADINIZ)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliabbasov99&show_icons=true&theme=radial)](https://github.com/aliabbasov99)
 </p>
 
 ### 💻 System Architecture & Development
