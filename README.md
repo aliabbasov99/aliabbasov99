@@ -11,7 +11,7 @@
 
 | Project | Contribution |
 |--------|-------------|
-| [PixelPlayer](https://github.com/theovilardo/PixelPlayer/pull/2262) | 🌐 Turkish language support |
+| [PixelPlayer](https://github.com/theovilardo/PixelPlayer/pull/2262) | 🌐 Contributed to Turkish localization and language support. |
 
 
 ### 💻 System Architecture & Development
