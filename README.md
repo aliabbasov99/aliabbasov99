@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Education-Information%20Security%20@%20AzTU-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Scholarship-Fullstack%20Development%20@%20Div%20Academy-blue?style=flat-square" />
+  [![Ali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliabbasov99&theme=github-dark-teal)](https://github.com/aliabbasov99)
 </p>
 
 
