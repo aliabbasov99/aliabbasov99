@@ -21,7 +21,7 @@ I specialize in designing and implementing robust digital infrastructures. My ap
 
 | Project | Contribution |
 |--------|-------------|
-| [PixelPlayer](https://github.com/theovilardo/PixelPlayer/pull/2262) | 🌐 Implemented Turkish localization (l10n) and internationalization (i18n) support. |
+| [PixelPlayer](https://github.com/theovilardo/PixelPlayer/pull/2262) | 🌐 Added Turkish language support. |
 
 ---
 
