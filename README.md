@@ -5,12 +5,9 @@
   <img src="https://img.shields.io/badge/Scholarship-Fullstack%20Development%20@%20Div%20Academy-blue?style=flat-square" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliabbasov99&theme=dark&hide_border=true" height="150" />
-</p>
 
 ### 💻 System Architecture & Development
-I specialize in designing and implementing robust digital infrastructures. My approach combines **Information Security** principles with modern **Full-stack** engineering to create high-performance, secure, and scalable systems.
+I specialize in designing and implementing robust digital infrastructures. My approach combines **Information Security** principles with modern **Full-stack** engineering to create high-performance, secure, and scalable systems. I contributed to **1** public repositery. 
 
 * **Backend Architecture:** Proficient in building scalable server-side structures using **Node.js, MongoDB, and FastAPI**.
 * **System Integration:** Experienced in implementing automated data integration and managing complex media flows via external APIs.
