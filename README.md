@@ -4,8 +4,15 @@
   <img src="https://img.shields.io/badge/Education-Information%20Security%20@%20AzTU-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Scholarship-Fullstack%20Development%20@%20Div%20Academy-blue?style=flat-square" />
 </p>
-### Last Contributions
-* 🔀 **[PixelPlayer](https://github.com/theovilardo/PixelPlayer/pull/2262)** — Added Turkish language support
+
+---
+
+### 🤝 Open Source Contributions
+
+| Project | Contribution |
+|--------|-------------|
+| [PixelPlayer](https://github.com/theovilardo/PixelPlayer/pull/2262) | 🌐 Turkish language support |
+
 
 ### 💻 System Architecture & Development
 I specialize in designing and implementing robust digital infrastructures. My approach combines **Information Security** principles with modern **Full-stack** engineering to create high-performance, secure, and scalable systems. I contributed to **1** public repositery. 
