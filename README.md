@@ -3,9 +3,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Education-Information%20Security%20@%20AzTU-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Scholarship-Fullstack%20Development%20@%20Div%20Academy-blue?style=flat-square" />
-  [![Ali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliabbasov99&theme=github-dark-teal)](https://github.com/aliabbasov99)
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliabbasov99&show_icons=true&theme=tokyonight" alt="Ali's GitHub Stats" />
+</p>
 
 ### 💻 System Architecture & Development
 I specialize in designing and implementing robust digital infrastructures. My approach combines **Information Security** principles with modern **Full-stack** engineering to create high-performance, secure, and scalable systems. I contributed to **1** public repositery. 
